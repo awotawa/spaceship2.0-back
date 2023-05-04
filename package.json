@@ -1,0 +1,8 @@
+{
+  "name": "spaceship2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:awotawa/spaceship2.0.git",
+  "author": "Alexandre Wotawa <awotawa@gmail.com>",
+  "license": "MIT"
+}
